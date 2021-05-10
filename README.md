@@ -6,7 +6,7 @@
 
 ## Sobre 
 
-Estudos de C# e .NET realizados na 1a semana de trabalho na Funcional Health Tech. Códigos reproduzidos da documentação oficial Windows.
+Estudos de C# e .NET realizados na 1a semana de trabalho na Funcional Health Tech. Códigos reproduzidos da documentação oficial Microsoft.
 
 - [Documentação](https://docs.microsoft.com/pt-br/dotnet/csharp/) <br>
 
