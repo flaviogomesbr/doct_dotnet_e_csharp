@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "35n91ilu2XWGOObwX2+LINe+mp2eDVV5RVu+fFQRsIDlBktFOYx1HJT6tWOuqIc+Z1Y3em4nShmXX7ZVwZYECA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\flavio.nascimento\\OneDrive - Funcional Mais\\Documentos\\0_CURSOS_E_TUTORIAIS\\0_DIO_.NET_e_C#\\Exercicios\\csharp-examples_flavio\\00-ExsDocumentacao\\F_CalculatorApp_v2\\Calcu.Library\\CalcuLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flavio.nascimento\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

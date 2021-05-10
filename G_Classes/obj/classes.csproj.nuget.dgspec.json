@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\flavio.nascimento\\OneDrive - Funcional Mais\\Documentos\\0_CURSOS_E_TUTORIAIS\\0_DIO_.NET_e_C#\\Exercicios\\csharp-examples_flavio\\00-ExsDocumentacao\\G_classes\\classes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\flavio.nascimento\\OneDrive - Funcional Mais\\Documentos\\0_CURSOS_E_TUTORIAIS\\0_DIO_.NET_e_C#\\Exercicios\\csharp-examples_flavio\\00-ExsDocumentacao\\G_classes\\classes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\flavio.nascimento\\OneDrive - Funcional Mais\\Documentos\\0_CURSOS_E_TUTORIAIS\\0_DIO_.NET_e_C#\\Exercicios\\csharp-examples_flavio\\00-ExsDocumentacao\\G_classes\\classes.csproj",
+        "projectName": "classes",
+        "projectPath": "C:\\Users\\flavio.nascimento\\OneDrive - Funcional Mais\\Documentos\\0_CURSOS_E_TUTORIAIS\\0_DIO_.NET_e_C#\\Exercicios\\csharp-examples_flavio\\00-ExsDocumentacao\\G_classes\\classes.csproj",
+        "packagesPath": "C:\\Users\\flavio.nascimento\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\flavio.nascimento\\OneDrive - Funcional Mais\\Documentos\\0_CURSOS_E_TUTORIAIS\\0_DIO_.NET_e_C#\\Exercicios\\csharp-examples_flavio\\00-ExsDocumentacao\\G_classes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\flavio.nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://vmbplantap01dev/NuGetServer/nuget/": {},
+          "http://vmbtfs01des/FcNugetServer/nuget/": {},
+          "http://vmnexus01/repository/fun-nuget-group/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

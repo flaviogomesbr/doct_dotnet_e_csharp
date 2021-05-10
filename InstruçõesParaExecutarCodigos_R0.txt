@@ -1,0 +1,23 @@
+****Utilizando o Visual Studio Code (VS Code) - códigos da pasta "A" até pasta "D"****
+
+1. Criar um diretório "teste";
+
+2. No terminal do VSCode, acessar o diretório "teste" e rodar o comando indicado abaixo no terminal:
+
+dotnet new console -n BranchesAndLoops -o .
+
+3. No arquivo "Program. cs" que foi gerado, inserir o código desejado abaixo da primeira linha (linha 1 precisa ser = using System)
+
+4. No terminal do VSCode, digitar:
+
+dotnet run
+
+****Utilizando editor online - códigos da pasta "A" até pasta "D"****
+
+1. Acessar o site: https://dotnetfiddle.net/
+
+2. Apagar o texto "Console.WriteLine("Hello World");" da linha 7 e colar o código a ser testado
+
+
+
+

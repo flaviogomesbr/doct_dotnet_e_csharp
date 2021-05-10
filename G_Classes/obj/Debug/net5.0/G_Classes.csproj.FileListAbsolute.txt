@@ -1,0 +1,5 @@
+C:\Users\flavio.nascimento\OneDrive - Funcional Mais\Documentos\0_CURSOS_E_TUTORIAIS\0_DIO_.NET_e_C#\Exercicios\csharp-examples_flavio\00-ExsDocumentacao\G_Classes\obj\Debug\net5.0\G_Classes.csprojAssemblyReference.cache
+C:\Users\flavio.nascimento\OneDrive - Funcional Mais\Documentos\0_CURSOS_E_TUTORIAIS\0_DIO_.NET_e_C#\Exercicios\csharp-examples_flavio\00-ExsDocumentacao\G_Classes\obj\Debug\net5.0\G_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavio.nascimento\OneDrive - Funcional Mais\Documentos\0_CURSOS_E_TUTORIAIS\0_DIO_.NET_e_C#\Exercicios\csharp-examples_flavio\00-ExsDocumentacao\G_Classes\obj\Debug\net5.0\G_Classes.AssemblyInfoInputs.cache
+C:\Users\flavio.nascimento\OneDrive - Funcional Mais\Documentos\0_CURSOS_E_TUTORIAIS\0_DIO_.NET_e_C#\Exercicios\csharp-examples_flavio\00-ExsDocumentacao\G_Classes\obj\Debug\net5.0\G_Classes.AssemblyInfo.cs
+C:\Users\flavio.nascimento\OneDrive - Funcional Mais\Documentos\0_CURSOS_E_TUTORIAIS\0_DIO_.NET_e_C#\Exercicios\csharp-examples_flavio\00-ExsDocumentacao\G_Classes\obj\Debug\net5.0\G_Classes.csproj.CoreCompileInputs.cache
